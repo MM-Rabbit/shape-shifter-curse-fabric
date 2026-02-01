@@ -64,7 +64,7 @@
     "item.minecraft.splash_potion.effect.to_feral_cat_sp_potion": "Splash Feral Cat Curse Potion",
     "item.minecraft.lingering_potion.effect.to_feral_cat_sp_potion": "Lingering Feral Cat Curse Potion",
     "item.minecraft.tipped_arrow.effect.to_feral_cat_sp_potion": "Arrow of Feral Cat Curse",
-    "effect.shape-shifter-curse.to_feral_cat_sp_potion": "Meow？",
+    "effect.shape-shifter-curse.to_feral_cat_sp_potion": "Meow?",
     "item.minecraft.potion.effect.to_familiar_fox_0_potion": "Familiar Fox Curse Potion",
     "item.minecraft.splash_potion.effect.to_familiar_fox_0_potion": "Splash Familiar Fox Curse Potion",
     "item.minecraft.lingering_potion.effect.to_familiar_fox_0_potion": "Lingering Familiar Fox Curse Potion",
@@ -432,3 +432,4 @@
     "text.autoconfig.shape-shifter-curse-custom.option.enable_form_random_sound": "Enable Form Random Sound",
     "text.autoconfig.shape-shifter-curse-custom.option.auto_sync_config": "Auto Sync Config"
 }
+
